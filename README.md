@@ -22,5 +22,5 @@ variables set to the appropriate credentials.
 $ CONSUMER_KEY=__TWITTER_CONSUMER_KEY__ CONSUMER_SECRET=__TWITTER_CONSUMER_SECRET__ node server.js
 ```
 
-You can see the example in action by opening a web browser and navigating to
-[http://127.0.0.1:3000/](http://127.0.0.1:3000/).
+Opening a web browser and navigate to [http://127.0.0.1:3000/](http://127.0.0.1:3000/)
+to see the example in action.
