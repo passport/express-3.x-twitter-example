@@ -1,4 +1,4 @@
-# Sign in with Twitter using Express 3.x and Passport
+## Sign in with Twitter using Express 3.x and Passport
 
 This application provides a simple, working example of how to use [Express](http://expressjs.com/)
 3.x and [Passport](http://passportjs.org/) to authenticate users using Twitter.
