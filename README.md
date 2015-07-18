@@ -1,3 +1,6 @@
+**NOTE:** This example uses an outdated version of Express.  For an example
+using the latest version, refer to [express-4.x-twitter-example](https://github.com/passport/express-4.x-twitter-example).
+
 This example demonstrates how to use [Express](http://expressjs.com/) 3.x and
 [Passport](http://passportjs.org/) to authenticate users using Twitter.  Use
 this example as a starting point for your own web applications.
