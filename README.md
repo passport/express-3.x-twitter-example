@@ -2,17 +2,16 @@ This example demonstrates how to use [Express](http://expressjs.com/) 3.x and
 [Passport](http://passportjs.org/) to authenticate users using Twitter.  Use
 this example as a starting point for your own web applications.
 
-## Install
+## Instructions
 
 To install this example on your computer, clone the repository and install
 dependencies.
 
 ```bash
 $ git clone git@github.com:passport/express-3.x-twitter-example.git
+$ cd express-3.x-twitter-example
 $ npm install
 ```
-
-## Start
 
 The example uses environment variables to configure the consumer key and
 consumer secret needed to access Twitter's API.  Start the server with those
